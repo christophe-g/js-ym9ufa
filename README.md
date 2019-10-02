@@ -1,3 +1,4 @@
-# js-ym9ufa
+# Multi Charts Demo
+Basic examples for working with `lit-html` and `LitElement`. 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-ym9ufa)
+See the `./01-basic/01-basic-setup.js` to get started.
